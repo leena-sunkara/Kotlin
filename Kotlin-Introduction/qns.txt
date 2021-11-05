@@ -1,0 +1,96 @@
+01. Write a kotlin program which will print Hello World.
+
+02. Create a list of 10 countries where all the countries are entered via keyboard and also input the search country. If the country is found display "Country Found" or else "Not Found" message.
+
+03. Create a list of 10 countries where all the countries are entered via keyboard and also input the search country. If the country is found display the country name and its posiiton, else display "Not Found" message.
+Example 1:
+countries = ["India", "England", "Canada", "India", "USA", "USA", "Japan", "China", "UK"]
+search country : India
+Output ~
+India 0
+India 3
+Example 2:
+countries = ["India", "England", "Canada", "England", "USA", "USA", "Japan", "China", "UK"]
+search country : India
+Output ~
+India 0
+
+04. Take a string from keyboard and reverse it without using inbuilt functions.
+Example:
+String a = "Masai";
+Output ~
+iasaM
+
+05. If a given year is a leap year, print "LEAP YEAR" and if it's not a leap year, print "NOT LEAP YEAR".
+
+06. Given two numbers left and right, print the pattern shown below
+Left - 2, Right 5
+1.1
+1.2
+1.3
+1.4
+1.5
+2.1
+2.2
+2.3
+2.4
+2.5
+
+07. Given a starting number and a decrement value, print all numbers from the starting number till zero deducting the decrement value each time
+Starting - 13, Decrement - 4
+Output ~
+13
+9
+5
+1
+
+08. Write a function to calculate the average of an array. If there are no items in the array it should return 0. Output for the arrays [], [1, 2, 3, 4, 5], [-12, -39, 12, 41, 22, 44]
+
+09. Given an array, find the unique elements. Take the array inputs from keyboard.
+Input: 10 20 30 10 40 -2 30
+Output ~
+20 40 -2
+Find the unique elements in the array [-1, -5, 3, 5, 1, 3, 6] and [2, 3, 4, 0, 4, -5]
+
+10. Create an array of size n, where all the inputs are taken from the keyboard and print all the repeated elements.
+Example 1 ~
+Input : [10, 10, 20, 20, -20]
+Output : 10, 10, 20, 20
+Example 2 ~
+Input : [10, 20, 30, 40, 50]
+Output : 0
+
+11. Given a string (take input from keyboard), calculate the occurrence of each and every character and print the output.
+Input : Masai School
+Output ~
+M-1
+a-2
+s-1
+i-1
+S-1
+c-1
+h-1
+o-2
+l-1
+Print the output for the strings "Transformation in education" and "Kia seltos"
+
+12. Calculate the total discount for a coupon based on the below conditions. To attract customers, you are giving a discount. You want to give 10% of the total price. But, you have also said that Rs.100 is the maximum discount that a customer can get. The minimum purchase is Rs.300.
+Output for the following sale prices 1500, 500, 250
+
+13. Print Versions 1.1.1 - 9.9.9
+Pattern 1.1.1 1.1.2 .. 2.1.1 .. 9.9.8 9.9.9
+
+14. Given an array, print the total no of characters
+Sample Input - ["Hello", "Masai"]
+Sample Output - 10
+Output for the array ["HTML", "CSS", "JAVA", "JS", "ANDROID"]
+
+15. Print the given elements of an array in reverse order
+Sample Input - [2, 5, 8, 1, 4]
+Sample Output
+4
+1
+8
+5
+2
+Output for the array [90, 32, 51, 1, 56], ["A", "E", "I", "O", "U"]
