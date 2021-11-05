@@ -1,0 +1,18 @@
+01. Print "Masai School" on the console
+02. Print your name by storing it in a variable
+03. Create a variable called 'name' and use it to print your father's name and your name
+04. Given the side of the square, calculate its perimeter
+05. Given two numbers in string format, find their difference
+06. Given two numbers A and B, print which is smaller
+07. Given a number, if it is odd, print "Odd Number"
+08. Given a day in long format like "Monday", "Tuesday" etc. print in short format "Mon", "Tue"
+09. Print the sum of all the numbers starting from 0 to the given limit which are multiples of 3
+10. Given a number print the below set of pattern (sample for input 3)
+	1.1
+	2.1
+	2.2
+	3.1
+	3.2
+	3.3
+11. Given an array of game scores, print the lowest score
+12. Given a number, write a function to find if it is divisible by 5
